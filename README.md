@@ -1,5 +1,5 @@
 # 💫 About Me:
-An associate data engineer with expertise in data ingestion, data processing, data storage and data visualization technologies and have completed a lot of end-to-end projects using real-world datasets to solve business problems. 
+Data engineer with expertise in data ingestion, data processing, data storage and data visualization technologies and have completed a lot of end-to-end projects using real-world datasets to solve business problems. 
 
 
 # 💻 Tech Stack:
